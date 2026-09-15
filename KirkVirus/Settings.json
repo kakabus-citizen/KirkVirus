@@ -1,0 +1,4 @@
+{
+    "launchsetting": 1, //will decide if it will even launch
+    "Crasher": 0 //will cause to freeze the machine and force you to reboot
+}
